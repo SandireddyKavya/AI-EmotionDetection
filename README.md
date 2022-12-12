@@ -1,4 +1,4 @@
-# AI-Facial-emotion-detection
+# AI-Emotion-detection
 # Authors:
 
 Kavya Sandi Reddy
